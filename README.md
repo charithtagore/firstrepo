@@ -2,4 +2,4 @@
 first demo repo
 my first repo @ tagore charith
 
-Exploring about Github
+Exploring about Git hub
